@@ -1,2 +1,2 @@
-# mirages
-云加速
+# Mirages
+静态文件云加速
